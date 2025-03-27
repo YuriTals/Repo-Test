@@ -1,0 +1,12 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.recupapp.id
+win:
+  icon: C:\Users\Yuri\Desktop\Meu projeto\assets\icons\favicon.png
+files:
+  - filter:
+      - build/**/*
+      - src/main.js
+      - src/preload.js
+electronVersion: 35.0.3
