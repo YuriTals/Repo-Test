@@ -70,5 +70,5 @@ Caso ocorra erro ao executar o `.exe`, verifique se os arquivos de build foram g
 ```
 
 <div style="text-align: center;">
-  💡 Feito com ❤️ por **YuriTals**
+  💡 Feito com ❤️ por *YuriTals*
 </div>
